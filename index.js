@@ -65,6 +65,6 @@ inquirer.prompt(questions).then((answers) => {
         <text x="${x}" y="${y}" font-family="Arial" font-size="24" fill="${textColor}" text-anchor="middle">${text}</text>
     </svg>`;
 
-  fs.writeFileSync("logo.svg", finalSvg);
+  fs.writeFileSync("./examples/logo.svg", finalSvg);
   console.log("Logo created!");
 });
