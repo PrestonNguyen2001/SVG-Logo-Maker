@@ -61,7 +61,7 @@ To test this SVG-Logo-Maker application, follow these steps:
 3. After the tests have been run, the results will be printed to the command line. 
 4. To view the test files, open the application in Visual Studio Code, then navigate to the `lib` folder. 
 
-To view a video on how to install, use, and test this application, click here: [Demo](https://youtu.be/Jkm5LkNqAss)
+To view a video on how to install, use, and test this application, click here: [Demo]()
 
 ## Contributing
 You can contribute to this project in various ways:
